@@ -1,3 +1,6 @@
+#EXTINF:0,edge sport
+http://tv.kitboxtv.com:8000/live/ydhhfybfb/dhdhfjkfk147/59.ts
+
 #EXTINF:-1,edge sport By www.iptv4free.com
 http://prx.carrot-software.com:8001/1:0:1:17DF:C82:3:EB0000:0:0:0:
 #EXTINF:0,BeIN movies 1HD By www.iptv4free.com
@@ -122,13 +125,6 @@ http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1,Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1,Rai News By www.iptv4free.com
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
-http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
-http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,MTV Polska By www.iptv4free.com
 http://83.136.86.101:19001/play/MTVPolska
 #EXTINF:-1,mtv india By www.iptv4free.com
@@ -421,4 +417,3 @@ http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/141/index.m3u8
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/142/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/143/index.m3u8
-#EXTINF:-1,Extreme Sports
