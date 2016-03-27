@@ -1,5 +1,41 @@
-#EXTINF:0,edge sport
+#EXTINF:-1,Star Sports 0
 http://tv.kitboxtv.com:8000/live/ydhhfybfb/dhdhfjkfk147/59.ts
+#EXTINF:-1,Star Sports 1
+http://167.114.41.215:8080/stsp1/stsp1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://167.114.41.215:8080/stsp2/stsp2/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
+#EXTINF:-1,Star Sports 4
+http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
+#EXTINF:-1,Astro sport hd
+http://stream.ssh101.com/hls/103654.m3u8
+#EXTINF:-1,Astro sport hd
+http://stream.ssh101.com/hls/23456.m3u8
+#EXTINF:-1,Skysport 1 HD
+http://37.157.246.170:8000/sky/sports1/index.m3u8
+#EXTINF:-1,Sport ru
+http://37.157.246.170:8000/sports1/sports1/index.m3u8
+#EXTINF:-1,Sky sport news
+http://tinyurl.com/p6c6ao3
+#EXTINF:-1,Racing uk
+http://tinyurl.com/nglhacj
+#EXTINF:-1,Racing uk 2
+http://tinyurl.com/nuvmf4p
+#EXTINF:-1,PTV SPORTS 
+http://cdn.ebound.tv:1935/tv/ptvsports_sub/playlist.m3u8
+#EXTINF:-1,star sport1 
+http://167.114.41.220:8080/star111/111/index.m3u8
+#EXTINF:-1,STAR SPORT2 
+http://167.114.41.220:8080/star222/2222/index.m3u8
+#EXTINF:-1,STAR SPORT3 
+http://167.114.41.220:8080/starrr3/star33/index.m3u8
+#EXTINF:-1,STAR SPORT 4 
+http://167.114.41.220:8080/starr4/444/index.m3u8
+#EXTINF:-1,TEN SPORT 
+http://cdn.ebound.tv:1935/tv/tensports_sub/playlist.m3u8
+#EXTINF:-1,Ten Cricket 
+http://37.220.29.186:8000/tencricket/tencricket/index.m3u8
 
 #EXTINF:-1,edge sport By www.iptv4free.com
 http://prx.carrot-software.com:8001/1:0:1:17DF:C82:3:EB0000:0:0:0:
